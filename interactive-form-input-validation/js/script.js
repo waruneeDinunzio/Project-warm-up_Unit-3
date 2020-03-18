@@ -15,8 +15,8 @@ const email = document.querySelector("#email");
 const framework = document.querySelector("#framework");
 const languagesContainer = document.querySelector("#radio-wrapper");
 const languagesInputs = document.querySelectorAll("#languages input");
-
-
+console.log(languagesContainer);
+console.log(languagesInputs);
 // YOUR CODE GOES HERE!!! Do the steps in the functions below to complete this challenge
 
 /* Helper function to validate name input */
